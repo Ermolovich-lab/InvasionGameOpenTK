@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.Bonuses.Bonus" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bonuses\Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Bonuses.BonusFactory" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAIAAEAAACAABAAAAAQAAAA=</HashCode>
+      <FileName>Bonuses\BonusFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Bonuses.BonusLauncher" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAQAAAAAEAYAAQAEAAAABA=</HashCode>
+      <FileName>Bonuses\BonusLauncher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Bullets.Bullet" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAAAgAAAAACBAAEAEABAAAAAAAAAAAA=</HashCode>
+      <FileName>Bullets\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Bullets.BulletFactory" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Bullets\BulletFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.FreezeDecorator" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\FreezeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.PlayerDecorator" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAABAAABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\PlayerDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.PowerDecorator" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\PowerDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.ReloadTimeDecorator" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\ReloadTimeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.SlowdownDecorator" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\SlowdownDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Decorators.SpeedBulletDecorator" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorators\SpeedBulletDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.Effect" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\Effect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.FreezeEffect" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\FreezeEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.PowerEffect" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\PowerEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.ReloadTimeEffect" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\ReloadTimeEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.SlowDownEffect" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\SlowDownEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Effects.SpeedBulletEffect" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects\SpeedBulletEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Enemies.Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYACAAAAKCIAAAAACAAFAABAAAAEAAggAEAAAACAAA=</HashCode>
+      <FileName>Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameLibrary.Enemies.EnemyFactory" Collapsed="true">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\EnemyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Enemies.EnemyWaveSystem" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="EngineLibrary.ObjectScript" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="1.062" />
+        <Point X="12.943" Y="1.375" />
+        <Point X="12.943" Y="2.74" />
+        <Point X="10.25" Y="2.74" />
+        <Point X="10.25" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAkCAgAAAAAAgAAAAAEIAQABAICAwAEAQAAAA=</HashCode>
+      <FileName>Enemies\EnemyWaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Level.ElementsFactory" Collapsed="true">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Level\ElementsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Level.LevelField" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level\LevelField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Players.Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="EngineLibrary.ObjectScript" ManuallyRouted="true">
+      <Path>
+        <Point X="13" Y="1.062" />
+        <Point X="13" Y="1.366" />
+        <Point X="12.933" Y="1.366" />
+        <Point X="12.933" Y="2.748" />
+        <Point X="15.5" Y="2.748" />
+        <Point X="15.5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAYACAEEAKAAABAAADAABAAAAAAAEAAgEAkAAAAAAAA=</HashCode>
+      <FileName>Players\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameLibrary.Players.PlayerFactory" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Players\PlayerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Players.PlayerProperties" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAABAAABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Players\PlayerProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Players.PlayerPropertiesStandart" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAABAAABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Players\PlayerPropertiesStandart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Weapons.EnemyWeapon" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="EngineLibrary.ObjectScript" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="13" Y="1.062" />
+        <Point X="13" Y="1.375" />
+        <Point X="12.93" Y="1.375" />
+        <Point X="12.93" Y="2.735" />
+        <Point X="11.875" Y="2.735" />
+        <Point X="11.875" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAIAAAAAAAABAEAAAAAIAAAAAAEAAAI=</HashCode>
+      <FileName>Weapons\EnemyWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Weapons.Weapon" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="EngineLibrary.ObjectScript" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="13" Y="1.062" />
+        <Point X="13" Y="1.375" />
+        <Point X="12.933" Y="1.375" />
+        <Point X="12.933" Y="2.745" />
+        <Point X="13.75" Y="2.745" />
+        <Point X="13.75" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAJAAAAAAEBAAA=</HashCode>
+      <FileName>Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.GameObject" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <AssociationLine Name="Colliders" Type="EngineLibrary.SystemCollider" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.555" Y="5.062" />
+        <Point X="11.555" Y="5.938" />
+        <Point X="10.75" Y="5.938" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Script" Type="EngineLibrary.ObjectScript" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.75" Y="4.75" />
+        <Point X="9.209" Y="4.75" />
+        <Point X="9.209" Y="0.781" />
+        <Point X="12.25" Y="0.781" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Transform" Type="EngineLibrary.TransformComponent" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.562" Y="5.062" />
+        <Point X="11.562" Y="5.939" />
+        <Point X="12.75" Y="5.939" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Colliders" />
+      <Property Name="Script" />
+      <Property Name="Texture" />
+      <Property Name="Transform" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.ObjectScript" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.SystemCollider" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.ObjectComponents.SpriteComponent" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Animation" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EngineLibrary.TransformComponent" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.ObjectComponents.Animation" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Game" Collapsed="true">
+    <Position X="1.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Scene" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EngineLibrary.Scene" Collapsed="true">
+    <Position X="1.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameLibrary.Invasion.StartScene" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCACAABAAAA=</HashCode>
+      <FileName>Invasion\StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Invasion.LevelScene" Collapsed="true">
+    <Position X="2.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAABCACAABAAAA=</HashCode>
+      <FileName>Invasion\LevelScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.ColliderComponent" Collapsed="true">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.ContentPipe" Collapsed="true">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Input" Collapsed="true">
+    <Position X="13" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.SpriteBatch" Collapsed="true">
+    <Position X="14.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Texture2D" Collapsed="true">
+    <Position X="11.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.TexturesBox" Collapsed="true">
+    <Position X="13" Y="8" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.Time" Collapsed="true">
+    <Position X="14.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="GameLibrary.Players.PlayerControl" Collapsed="true">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Players\Player.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GameLibrary.Interfaces.IHealth" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IHealth.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
